@@ -1,0 +1,6 @@
+co\edu\unicauca\figures\domain\entities\IFigure.class
+co\edu\unicauca\figures\domain\entities\Square.class
+co\edu\unicauca\figures\domain\entities\Triangle.class
+co\edu\unicauca\figures\domain\entities\Circle.class
+co\edu\unicauca\figures\domain\entities\Figure.class
+co\edu\unicauca\figures\Main.class

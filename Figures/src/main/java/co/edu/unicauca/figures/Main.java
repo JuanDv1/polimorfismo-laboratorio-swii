@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package co.edu.unicauca.figures;
 
 import co.edu.unicauca.figures.domain.entities.Circle;
@@ -13,7 +9,8 @@ import java.util.List;
 
 /**
  *
- * @author FIET-PIS
+ * @author Juan David Perdomo Ramos
+ * @author Brayan Steven Gomes Lasso
  */
 public class Main {
 
